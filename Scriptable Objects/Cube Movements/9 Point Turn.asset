@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 609abb1a2cb2eb3439b972485d10e7b7, type: 3}
+  m_Name: 9 Point Turn
+  m_EditorClassIdentifier: 
+  _timestamps:
+  - 0.82756466
+  - 1.7410616
+  - 1.7599049
+  - 1.9413643
+  - 1.9529201
+  - 3.0274405
+  - 3.0456038
+  - 3.3104842
+  - 3.323417
+  - 4.4675064
+  - 4.5007915
+  - 4.6157684
+  - 4.627908
+  - 5.640171
+  - 5.658344
+  - 5.8486753
+  - 6.8681817
+  - 6.920674
+  - 7.0694985
+  - 8.097186
+  - 8.120973
+  - 8.304103
+  - 9.230992
+  - 9.248489
+  - 9.401489
+  - 9.421386
+  - 10.349996
+  - 10.374477
+  - 10.550139
+  - 10.562808
+  - 11.689102
+  - 11.713315
+  - 11.830337
+  - 11.842237
+  - 12.786864
+  - 12.805747
+  - 12.961808
+  - 12.975267
+  - 13.945434
+  - 13.980789
+  - 14.073385
+  - 14.090084
+  - 15.11154
+  - 15.14358
+  - 15.292156
+  - 15.311227
+  - 16.206907
+  - 16.231646
+  - 16.364239
+  - 16.377337
+  - 17.379688
+  - 17.390522
+  - 17.550365
+  - 17.57032
+  - 18.537956
+  - 18.55635
+  - 18.752796
+  - 18.763039
+  - 19.756695
+  - 19.782013
+  - 19.927265
+  - 19.95134
+  - 21.061409
+  - 21.081745
+  - 21.17356
+  - 21.20999
+  - 22.132774
+  - 22.151785
+  _data:
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 1
+    _rotation: 0
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 1
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 1
+  - _momentum: 0
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: -1
+    _rotation: 1
+  - _momentum: -1
+    _rotation: 0
+  - _momentum: 0
+    _rotation: 0
